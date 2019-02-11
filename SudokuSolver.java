@@ -1,5 +1,5 @@
 // Solution is based on work by https://stackoverflow.com/users/912935/the111
-// Backtracking, print and validity or row, column and square are 
+// Backtracking, print and validity or row, column and square are derived from this solution
 
 public class SudokuSolver
 {
